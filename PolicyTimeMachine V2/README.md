@@ -1,4 +1,4 @@
-# WaybackTimeMachine V2
+# WaybackTimeMachine (V2)
 
 A desktop GUI tool for collecting historical **Terms of Service**, **Privacy Policies**, and other policy documents from the **Internet Archive Wayback Machine**, saving both raw HTML and cleaned text versions locally in a structured format.
 
